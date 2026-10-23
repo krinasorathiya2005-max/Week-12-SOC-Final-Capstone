@@ -90,10 +90,9 @@ This project is intended for educational purposes and authorized security testin
 
 ## 👨‍💻 Author
 
-**Harsh Dankhra**  
+**Krina Sorathiya**  
 Cybersecurity Learner | SOC Analyst Aspirant
 
-GitHub: [@dankharaharsh](https://github.com/dankharaharsh)
 
 ---
 
